@@ -57,15 +57,15 @@
 
 # 1. 文章から Neo4j のデータを作成する検証
 
-[1. 文章からグラフを作成する検証](https://www.notion.so/1-2444f8bb68488083bcbdfc0eec686621?pvs=21)
+[1. 文章からグラフを作成する検証](/neo4j/blob/main/docs/2_1_文章からグラフを作成する検証.md)
 
 # 2. 検索の方法を検証
 
-[2. 検索の方法を検証](https://www.notion.so/2-2444f8bb68488023bdbac6e36d8998de?pvs=21)
+[2. 検索の方法を検証](/neo4j/blob/main/docs/2_2_検索の方法を検証.md)
 
 # 3. 最終的な回答を出す検証
 
-[3. 最終的な回答を出す検証](https://www.notion.so/3-2444f8bb6848806d844fcf01fe3d6697?pvs=21)
+[3. 最終的な回答を出す検証](/neo4j/blob/main/docs/2_3_最終的な回答を出す検証.md)
 
 # その他検証ポイント
 
