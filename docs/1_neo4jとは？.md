@@ -18,7 +18,7 @@
 
 - 画面に表示されるエンティティは代表的なもの(id, name, title,,,)が１つ表示されるっぽい(gpt)
 
-![スクリーンショット 2025-08-02 3.01.00.png](attachment:2a12e470-1023-4748-93b7-87a328654fe7:スクリーンショット_2025-08-02_3.01.00.png)
+<img width="310" height="267" alt="スクリーンショット 2025-08-02 3 01 00" src="https://github.com/user-attachments/assets/db4f9d65-2d42-48d9-b51e-dcc0fd397fe0" />
 
 # サンプルクエリ
 
