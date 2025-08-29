@@ -57,15 +57,15 @@
 
 # 1. 文章から Neo4j のデータを作成する検証
 
-[1. 文章からグラフを作成する検証](https://github.com/campbel2525/neo4j/blob/main/docs/%E6%A4%9C%E8%A8%BC/2_1_%E6%96%87%E7%AB%A0%E3%81%8B%E3%82%89%E3%82%B0%E3%83%A9%E3%83%95%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E6%A4%9C%E8%A8%BC.md)
+[1. 文章からグラフを作成する検証](https://github.com/campbel2525/neo4j/blob/main/docs/0_%E6%A4%9C%E8%A8%BC/2_1_%E6%96%87%E7%AB%A0%E3%81%8B%E3%82%89%E3%82%B0%E3%83%A9%E3%83%95%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E6%A4%9C%E8%A8%BC.md)
 
 # 2. 検索の方法を検証
 
-[2. 検索の方法を検証](https://github.com/campbel2525/neo4j/blob/main/docs/%E6%A4%9C%E8%A8%BC/2_2_%E6%A4%9C%E7%B4%A2%E3%81%AE%E6%96%B9%E6%B3%95%E3%82%92%E6%A4%9C%E8%A8%BC.md)
+[2. 検索の方法を検証](https://github.com/campbel2525/neo4j/blob/main/docs/0_%E6%A4%9C%E8%A8%BC/2_2_%E6%A4%9C%E7%B4%A2%E3%81%AE%E6%96%B9%E6%B3%95%E3%82%92%E6%A4%9C%E8%A8%BC.md)
 
 # 3. 最終的な回答を出す検証
 
-[3. 最終的な回答を出す検証](https://github.com/campbel2525/neo4j/blob/main/docs/%E6%A4%9C%E8%A8%BC/2_3_%E6%9C%80%E7%B5%82%E7%9A%84%E3%81%AA%E5%9B%9E%E7%AD%94%E3%82%92%E5%87%BA%E3%81%99%E6%A4%9C%E8%A8%BC.md)
+[3. 最終的な回答を出す検証](https://github.com/campbel2525/neo4j/blob/main/docs/0_%E6%A4%9C%E8%A8%BC/2_3_%E6%9C%80%E7%B5%82%E7%9A%84%E3%81%AA%E5%9B%9E%E7%AD%94%E3%82%92%E5%87%BA%E3%81%99%E6%A4%9C%E8%A8%BC.md)
 
 # その他検証ポイント
 
