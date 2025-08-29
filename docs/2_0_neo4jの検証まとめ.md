@@ -57,15 +57,15 @@
 
 # 1. 文章から Neo4j のデータを作成する検証
 
-[1. 文章からグラフを作成する検証](/neo4j/blob/main/docs/2_1_文章からグラフを作成する検証.md)
+[1. 文章からグラフを作成する検証](https://github.com/campbel2525/neo4j/blob/main/docs/2_0_neo4j%E3%81%AE%E6%A4%9C%E8%A8%BC%E3%81%BE%E3%81%A8%E3%82%81.md)
 
 # 2. 検索の方法を検証
 
-[2. 検索の方法を検証](/neo4j/blob/main/docs/2_2_検索の方法を検証.md)
+[2. 検索の方法を検証](https://github.com/campbel2525/neo4j/blob/main/docs/2_2_%E6%A4%9C%E7%B4%A2%E3%81%AE%E6%96%B9%E6%B3%95%E3%82%92%E6%A4%9C%E8%A8%BC.md)
 
 # 3. 最終的な回答を出す検証
 
-[3. 最終的な回答を出す検証](/neo4j/blob/main/docs/2_3_最終的な回答を出す検証.md)
+[3. 最終的な回答を出す検証](https://github.com/campbel2525/neo4j/blob/main/docs/2_3_%E6%9C%80%E7%B5%82%E7%9A%84%E3%81%AA%E5%9B%9E%E7%AD%94%E3%82%92%E5%87%BA%E3%81%99%E6%A4%9C%E8%A8%BC.md)
 
 # その他検証ポイント
 
